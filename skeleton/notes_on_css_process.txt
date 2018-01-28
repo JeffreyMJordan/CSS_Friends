@@ -1,0 +1,4 @@
+The very first thing you do should be to make a reset file 
+This prevents weird inheritances 
+  Zero out box model properties and set all fonts/colors to inheritances
+
